@@ -5,8 +5,8 @@ public class HelloWorld {
         System.out.println("Hello Git!");
         System.out.println("My name is Shweta Bhange.");
         System.out.println("I am learning Git and GitHub.");
-         System.out.println("new code");
-
+         System.out.println("new code1");
+          System.out.println("new code2");
     }
 
 }
